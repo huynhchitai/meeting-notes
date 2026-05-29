@@ -383,11 +383,11 @@ export default function HowItWorks() {
             Tai Huynh · 2026 · built with Next.js 14 &amp; Gemini 2.5 Flash
           </p>
           <p className="folio" style={{ color: 'var(--ink-faint)' }}>
-            <a href="https://github.com/0CCHacker" className="hover:text-accent" style={{ color: 'inherit' }}>
+            <a href="https://github.com/huynhchitai" className="hover:text-accent" style={{ color: 'inherit' }}>
               Tai Huynh
             </a>
             <span className="mx-2" style={{ color: 'var(--rule)' }}>·</span>
-            <a href="https://github.com/0CCHacker" className="hover:text-accent" style={{ color: 'inherit' }}>
+            <a href="https://github.com/huynhchitai" className="hover:text-accent" style={{ color: 'inherit' }}>
               github
             </a>
             <span className="mx-2" style={{ color: 'var(--rule)' }}>·</span>

@@ -2,7 +2,7 @@
 
 Paste a meeting transcript — get a clean summary, decisions, action items, and a follow-up email.
 
-> Portfolio Project #6 · [Tai Huynh](https://github.com/0CCHacker)
+> Portfolio Project #6 · [Tai Huynh](https://github.com/huynhchitai)
 
 ---
 
